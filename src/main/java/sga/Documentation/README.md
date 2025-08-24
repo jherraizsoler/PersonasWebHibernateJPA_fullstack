@@ -39,7 +39,7 @@ Antes de ejecutar este proyecto, asegúrate de tener instalado lo siguiente:
 * [**JDK 21**](https://www.oracle.com/java/technologies/downloads/) o superior.
 * [**Maven**](https://maven.apache.org/download.cgi).
 * [**MySQL**](https://www.mysql.com/downloads/).
-* [**GlassFish Server 8.0.0**] Tener instalado este servidor GlassFish Server  version 8.0.0
+* **GlassFish Server 8.0.0** Tener instalado este servidor GlassFish Server  version 8.0.0
   En caso de no tenerlo seguir el siguiente manual de instalación de GlassFish Server  version 8.0.0 readmeInstallGlassfishServer8.0.0.md
 ---
 
