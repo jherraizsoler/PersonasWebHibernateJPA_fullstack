@@ -38,7 +38,6 @@ Antes de ejecutar este proyecto, asegúrate de tener instalado lo siguiente:
 * [**Apache Netbeans IDE 26**](https://netbeans.apache.org/front/main/download/nb26/)
 * [**JDK 21**](https://www.oracle.com/java/technologies/downloads/) o superior.
 * [**Maven**](https://maven.apache.org/download.cgi).
-* Un servidor de aplicaciones compatible con Jakarta EE, como **Apache Tomcat 10+** o **Payara**.
 * [**MySQL**](https://www.mysql.com/downloads/).
 * [**GlassFish Server 8.0.0**] Tener instalado este servidor GlassFish Server  version 8.0.0
   En caso de no tenerlo seguir el siguiente manual de instalación de GlassFish Server  version 8.0.0 readmeInstallGlassfishServer8.0.0.md
