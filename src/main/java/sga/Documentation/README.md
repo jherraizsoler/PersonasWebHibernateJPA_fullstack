@@ -24,6 +24,7 @@ Este proyecto ha sido construido utilizando las siguientes tecnologías clave:
 * **Hibernate ORM 6.6.9.Final**: Framework para la persistencia de datos (mapeo objeto-relacional).
 * **MySQL Connector/J 9.2.0**: Driver de base de datos para la conexión con MySQL.
 * **Apache Log4j 2.24.3**: Herramienta de logging para el registro de eventos y depuración.
+* **Glashfish Server 8.0.0**: Servidor de despliegue de la app web instalado en Services en Netbeans.
 
 ### Frontend
 * **JSP (JavaServer Pages)**: Tecnología para la creación de páginas web dinámicas.
