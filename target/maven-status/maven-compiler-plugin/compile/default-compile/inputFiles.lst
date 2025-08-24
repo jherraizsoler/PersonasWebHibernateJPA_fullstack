@@ -1,0 +1,15 @@
+C:\Users\herra\Documents\1.NetBeansProjects\Hibernate\SgaWebHibernateJPA\src\main\java\sga\dao\AlumnoDAO.java
+C:\Users\herra\Documents\1.NetBeansProjects\Hibernate\SgaWebHibernateJPA\src\main\java\sga\dao\AsignacionDAO.java
+C:\Users\herra\Documents\1.NetBeansProjects\Hibernate\SgaWebHibernateJPA\src\main\java\sga\dao\ContactoDAO.java
+C:\Users\herra\Documents\1.NetBeansProjects\Hibernate\SgaWebHibernateJPA\src\main\java\sga\dao\CursoDAO.java
+C:\Users\herra\Documents\1.NetBeansProjects\Hibernate\SgaWebHibernateJPA\src\main\java\sga\dao\DomicilioDAO.java
+C:\Users\herra\Documents\1.NetBeansProjects\Hibernate\SgaWebHibernateJPA\src\main\java\sga\dao\GenericDAO.java
+C:\Users\herra\Documents\1.NetBeansProjects\Hibernate\SgaWebHibernateJPA\src\main\java\sga\domain\Alumno.java
+C:\Users\herra\Documents\1.NetBeansProjects\Hibernate\SgaWebHibernateJPA\src\main\java\sga\domain\Asignacion.java
+C:\Users\herra\Documents\1.NetBeansProjects\Hibernate\SgaWebHibernateJPA\src\main\java\sga\domain\Contacto.java
+C:\Users\herra\Documents\1.NetBeansProjects\Hibernate\SgaWebHibernateJPA\src\main\java\sga\domain\Curso.java
+C:\Users\herra\Documents\1.NetBeansProjects\Hibernate\SgaWebHibernateJPA\src\main\java\sga\domain\Domicilio.java
+C:\Users\herra\Documents\1.NetBeansProjects\Hibernate\SgaWebHibernateJPA\src\main\java\sga\servicio\ServicioAlumno.java
+C:\Users\herra\Documents\1.NetBeansProjects\Hibernate\SgaWebHibernateJPA\src\main\java\sga\web\ServletAgregarAlumno.java
+C:\Users\herra\Documents\1.NetBeansProjects\Hibernate\SgaWebHibernateJPA\src\main\java\sga\web\ServletListadoAlumnos.java
+C:\Users\herra\Documents\1.NetBeansProjects\Hibernate\SgaWebHibernateJPA\src\main\java\sga\web\ServletModificarAlumno.java
