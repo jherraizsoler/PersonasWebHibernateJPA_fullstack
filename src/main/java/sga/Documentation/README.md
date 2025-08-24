@@ -52,35 +52,27 @@ Sigue estos pasos para poner en marcha la aplicación en tu entorno local.
 Abre tu terminal y clona el repositorio de GitHub:
 
 ```bash
-git clone [https://github.com/tu_usuario/nombre_del_repositorio.git](https://github.com/tu_usuario/nombre_del_repositorio.git)
-cd nombre_del_repositorio
+git clone [https://github.com/jherraizsoler/PersonasWebHibernateJPA_fullstack](https://github.com/jherraizsoler/PersonasWebHibernateJPA_fullstack)
+cd PersonasWebHibernateJPA_fullstack-main
 ```
 
 ### 2. Configuración de la Base de Datos
 
-1.  Abre MySQL Workbench o tu cliente de base de datos preferido.
-2.  Crea una base de datos con el nombre que desees (ej. `sga_db`).
-3.  Ejecuta los scripts de la base de datos para crear las tablas necesarias (debes tener estos scripts en tu proyecto).
+1. Tener instalado MySQL Workbench 8.0.42  (Community Version)
+
+2. Dentro de MySQL Workbench crear Schema / base de datos  con el nombre sga 
+
+3. Dentro de MySQL Workbench en Server > Data Import  seleccionar la carpeta que esta en Documentation que se llama importarBD_sga y darle a importar
 
 ### 3. Configuración del Proyecto
 
-Abre el proyecto en tu IDE (como IntelliJ IDEA, Eclipse o VS Code) y actualiza el archivo de configuración de Hibernate (`hibernate.cfg.xml`) con las credenciales de tu base de datos MySQL.
+Abre el proyecto en tu Apache Netbeans IDE 26  y actualiza el archivo de configuración de **_Persistencia_** (`persistence.xml`) con las credenciales de tu base de datos MySQL.
 
-### 4. Compilar y Empaquetar
+### 4. Despliegue de la Aplicación
 
-Desde la raíz del proyecto, utiliza Maven para compilar y empaquetar la aplicación en un archivo `.war`:
+Ejecuta el proyecto (run) y el servidor(`Glassfish Server 8.0.0`) lo desplegará automáticamente.
 
-```bash
-mvn clean package
-```
-
-Esto generará el archivo `SgaWebHibernateJPA.war` en la carpeta `target/`.
-
-### 5. Despliegue de la Aplicación
-
-Copia el archivo `SgaWebHibernateJPA.war` a la carpeta `webapps/` de tu servidor de aplicaciones (ej. Apache Tomcat). El servidor lo desplegará automáticamente.
-
-### 6. Acceder a la Aplicación
+### 5. Acceder a la Aplicación
 
 Una vez que el servidor haya iniciado, abre tu navegador y visita la siguiente URL:
 
